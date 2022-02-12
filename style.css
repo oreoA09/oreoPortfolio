@@ -79,9 +79,13 @@ b{
 }
 
 hr{
-  border: 5px solid rgb(77, 77, 219);
+  border: 3px solid rgb(77, 77, 219);
   border-radius: 5px;
   width: 80px;
+}
+
+#contact hr{
+text-align: center;
 }
 
 .flag-icon-gha{
